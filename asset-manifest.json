@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Slider_REACT/static/css/main.f8b9b7d4.chunk.css",
+    "main.js": "/Slider_REACT/static/js/main.0e682fab.chunk.js",
+    "main.js.map": "/Slider_REACT/static/js/main.0e682fab.chunk.js.map",
+    "runtime-main.js": "/Slider_REACT/static/js/runtime-main.e4a50135.js",
+    "runtime-main.js.map": "/Slider_REACT/static/js/runtime-main.e4a50135.js.map",
+    "static/js/2.de2220ec.chunk.js": "/Slider_REACT/static/js/2.de2220ec.chunk.js",
+    "static/js/2.de2220ec.chunk.js.map": "/Slider_REACT/static/js/2.de2220ec.chunk.js.map",
+    "index.html": "/Slider_REACT/index.html",
+    "static/css/main.f8b9b7d4.chunk.css.map": "/Slider_REACT/static/css/main.f8b9b7d4.chunk.css.map",
+    "static/js/2.de2220ec.chunk.js.LICENSE.txt": "/Slider_REACT/static/js/2.de2220ec.chunk.js.LICENSE.txt",
+    "static/media/left-arrow.da21225b.svg": "/Slider_REACT/static/media/left-arrow.da21225b.svg",
+    "static/media/right-arrow.d19ce8f8.svg": "/Slider_REACT/static/media/right-arrow.d19ce8f8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e4a50135.js",
+    "static/js/2.de2220ec.chunk.js",
+    "static/css/main.f8b9b7d4.chunk.css",
+    "static/js/main.0e682fab.chunk.js"
+  ]
+}
